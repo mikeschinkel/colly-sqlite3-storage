@@ -1,5 +1,5 @@
 # colly-sqlite3-storage
-A SQLite3 storage back end  for the Colly web crawling/scraping framework https://go-colly.org
+A SQLite3 storage back end  for the Colly web crawling/scraping framework http://go-colly.org
 
 This implementes both the crawling storage and the queue storage.
 
